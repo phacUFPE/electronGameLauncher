@@ -1,0 +1,21 @@
+{
+  "name": "electron-game-launcher",
+  "version": "1.0.0",
+  "description": "This is a Game Launcher develop with the electron technology for manage the updates download of any game.",
+  "author": {
+    "email": "phac@cin.ufpe.br",
+    "name": "Pedro Henrique Alves Cruz",
+    "url": "https://github.com/phacUFPE"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phacUFPE/electronGameLauncher"
+  },
+  "bugs": {
+    "url": "https://github.com/phacUFPE/electronGameLauncher/issues"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^20.0.0"
+  }
+}
